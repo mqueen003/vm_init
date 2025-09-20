@@ -1,0 +1,5 @@
+- resolv.conf # DNS resolution
+- fstab # persistent mounting
+- hosts # custom DNS names
+- config.rasi # rofi config theme
+- .smbcredentials # persistent mounting
