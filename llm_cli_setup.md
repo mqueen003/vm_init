@@ -5,7 +5,9 @@
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/master/install.sh | bash
 ```
 
+- Source the .bashrc file and then confirm installation with `nvm --version`
 - Use `nvm` to install latest version of `node.js`
+
 
 ```bash
 nvm install node
