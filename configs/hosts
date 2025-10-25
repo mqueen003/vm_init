@@ -1,0 +1,17 @@
+127.0.0.1	localhost
+127.0.1.1	michael-HP-Laptop-15-dw3xxx
+100.127.231.110	jellyfin.mqhomeserver
+100.127.231.110 vault.mqhomeserver
+100.127.231.110 homer.mqhomeserver
+100.127.231.110 immich.mqhomeserver
+100.127.231.110 homeassist.mqhomeserver
+100.127.231.110 pihole.mqhomeserver
+100.127.231.110 admin.mqhomeserver
+192.168.1.35    proxmox1.mqhomeserver
+
+# The following lines are desirable for IPv6 capable hosts
+::1     ip6-localhost ip6-loopback
+fe00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters

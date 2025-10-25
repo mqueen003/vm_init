@@ -11,4 +11,7 @@
 
 
 **TODO**
-- Get a full setup guide (after verifying the working process) for PCI-e passthrough to VM's
+- Add config dotfiles for `Kitty`, `LazyVim`, `Yazi`
+    - Add installation guides for all 3 -- remember you need to download their official binaries with `curl` then install and move to path
+- `Duckdb` integration with `Yazi`
+- Obsidian integration with `LazyVim`
